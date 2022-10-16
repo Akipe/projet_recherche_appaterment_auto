@@ -9,7 +9,7 @@ Ensemble des différents acteurs du système.
 C'est une personne qui visite le site et qui va réaliser différentes requettes pour rechercher un logement.
 
 - **L'utilisateur**
-C'est une personne qui c'est enregistré sur le site, Il peut réaliser les actions du visiteur, en plus de sauvegarder ses recherches et activer un système de notification.
+C'est une personne qui est enregistré dans le système et qui c'est correctement identifié, Il peut réaliser les actions du visiteur, en plus de sauvegarder, modifier et supprimer ses recherches et activer un système de notification.
 
 # Acteurs Secondaires
 
