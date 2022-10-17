@@ -42,8 +42,8 @@ Aucun.
 ### Scénarios exceptionnels
 
 #### E1 - Aucun résultat
-A partir de l'étape 4 :  
-1. Les API renvoie une liste ne contenant aucun résultat
+A partir de l'étape 5 :  
+1. Le Système ne reçoit pas de résultat
 1. Le Système affiche un message informant qu'il n'y a pas d'annonces avec les critère défini précédament.
 
 #### E2 - Erreur des API
