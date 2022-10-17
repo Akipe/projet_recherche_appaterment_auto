@@ -13,11 +13,5 @@ C'est une personne qui est enregistré dans le système et qui c'est correctemen
 
 # Acteurs Secondaires
 
-- **LeBonCoin**
-C'est un site internet depuis lequel notre système va récupérer la liste des offres de logement, pour les afficher dans notre système.
-
-- **PAP.fr**
-C'est un site internet depuis lequel notre système va récupérer la liste des offres de logement, pour les afficher dans notre système.
-
-- **SeLoger.fr**
+- **API annonce logement**
 C'est un site internet depuis lequel notre système va récupérer la liste des offres de logement, pour les afficher dans notre système.

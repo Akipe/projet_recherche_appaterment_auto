@@ -8,7 +8,7 @@ Un Visiteur ou Utilisateur.
 Un visiteur ou utilisateur peut effectuer une recherche pour afficher les annonces de logement en fonction des caractéristique de sa recherche.
 
 ## Pré-condition
-Un Visiteur est sur la page de recherche.
+Aucune pré-condition.
 
 ## Post-condition
 Le Système affiche une page contenant une liste de resultats d'annonces.
